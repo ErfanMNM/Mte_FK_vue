@@ -1,0 +1,20 @@
+[x] Khởi tạo dự án Vue 3 + Vite (không CDN)
+[x] Tạo router và guard đăng nhập
+[x] Thêm mock API: login, save/fetch board
+[x] Giao diện admin: Header + Sidebar
+[x] Trang Login (demo: admin/123456)
+[x] Trang Kanban: thêm/sửa/xóa, kéo-thả, lưu localStorage
+[x] Modal chi tiết task (mô tả, hạn, nhãn, checklist)
+[x] Click task mở modal; lưu/persist
+[x] Thêm cột mới; đổi tên/xóa cột
+[x] Đổi tên bảng; xóa bảng (reset)
+[x] Cập nhật style cho modal/board actions
+[x] Thiết kế lại layout admin chuyên nghiệp (header + sidebar cố định, full height)
+[x] Cập nhật Sidebar và Router để thêm trang Users
+[x] Store người dùng + mock API (CRUD)
+[x] Trang Users: bảng, tìm kiếm, thêm/sửa/xóa (modal)
+[x] Bổ sung style cho bảng, badge, card, layout
+[x] Tích hợp PrimeVue: dependencies, theme, components
+[ ] Cài dependencies: npm install
+[ ] Chạy dev: npm run dev và kiểm tra UI
+[ ] Bổ sung trang Users (mock)
